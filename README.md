@@ -11,7 +11,7 @@
   <img align="center" alt="Isbe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isbe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="right" alt="Isbe-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/isbelij/">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/isbelij/">
 </div>
   
   ##
