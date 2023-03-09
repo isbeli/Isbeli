@@ -1,11 +1,8 @@
 ## Oiii eu sou Isbeli Ramirez, Front-end Developer!
 <div align="center">
-  <a href="https://github.com/isbeli">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isbeli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isbeli&layout=compact&langs_count=7&theme=dracula"/>
-    
+  <a href="https://github.com/Isbeli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isbeli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isbeli&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
