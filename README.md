@@ -14,7 +14,7 @@
   <img align="center" alt="Isbe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isbe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.istockphoto.com/vectors/line-web-design-and-front-end-development-icon-isolated-on-white-vector-id1286019334?k=20&m=1286019334&s=612x612&w=0&h=3DtRpEwhkgHXdpS9p5YB4ftH30YIdvj9Asnvq3eDnC4=">
+  <img align="right" alt="Isbeli-Ramirez" height="150" style="border-radius:60px;" src="https://lh3.googleusercontent.com/a/AGNmyxbmpEejC5KUBkqa4XVGp8EHvrJhp7zYrcxz4GDj=s288">
   </a>
 </div>
   
@@ -22,7 +22,7 @@
  
 <div> 
   
-  <a href="https://www.instagram.com/isbelij/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/isbelij/" style="border-radius:50px;" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isbeliramirez8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isbeli-ramirez-43a802130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/isbeli">
