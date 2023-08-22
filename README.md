@@ -7,7 +7,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://isbeli.github.io/SobreMim/">
   <img align="center" alt="Isbe-Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isbe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isbe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +17,7 @@
   <img align="center" alt="Isbe-CSS" height="40" width="45" src="https://prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp">
    <img align="center" alt="Isbe-CSS" height="40" width="50" src="https://logosmarcas.net/wp-content/uploads/2020/11/Salesforce-Logo.png">
   
- <img align="right" alt="Isbeli-Ramirez" height="150" style="border-radius:60px;" src="https://isbeli.github.io/SobreMim/assets/img/meu-logo.png">  </a>
+   <a href="https://isbeli.github.io/SobreMim/"> <img align="right" alt="Isbeli-Ramirez" height="150" style="border-radius:60px;" src="https://isbeli.github.io/SobreMim/assets/img/meu-logo.png"> </a>
 </div>
   
   ##
