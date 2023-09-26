@@ -6,8 +6,6 @@
 <div>
     <center>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=isbeli&theme=radical&background=141321&dates=FFF&center=true&vCenter=true&width=1000&)](https://git.io/streak-stats)
-
 <div align="center">
   <a href="https://github.com/Isbeli">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isbeli&layout=compact&langs_count=7&theme=radical"/>
