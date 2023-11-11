@@ -82,7 +82,7 @@
   <a href="https://www.instagram.com/isbelij/" style="border-radius:50px;" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&bg_color" target="_blank"></a>
   <a href = "mailto:isbeliramirez8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isbeli-ramirez-43a802130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://isbeli.github.io/SobreMim/"> <img  alt="Isbeli-Ramirez" height="50" style="border-radius:40px;" src="https://isbeli.github.io/SobreMim/assets/img/meu-logo.png"></a>
+ <a href="https://isbeli.github.io/SobreMim/" target="_blank"> <img  alt="Isbeli-Ramirez" height="50" style="border-radius:40px;" src="https://isbeli.github.io/SobreMim/assets/img/meu-logo.png"></a>
  
 </div>
 
