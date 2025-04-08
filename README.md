@@ -44,7 +44,7 @@
 </div>
     
 
-<div style="display: "><br>
+<div style="display: ">
 <center>
 <div>
   
@@ -60,7 +60,8 @@
   <img align="center" alt="Isbe-Salesforce" height="40" width="50" src="https://vetores.org/wp-content/uploads/salesforce.png">
 </div>
 
-
+<br/>
+<br/>
 <div align="center">
   <h2 align="center">
     🔧⚙️ Technologies and Tools
@@ -73,7 +74,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/> 
  <img  alt="Atry-Figma" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>
 </div>
-
+<br/>
+<br/>
 <div> 
   <h2 align="center">
     📱 My Social Networks
