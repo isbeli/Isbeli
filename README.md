@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00b2&height=120&section=header"/>
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33b8b6&size=35&center=true&vCenter=true&width=1000&lines=Hi+I'm,+Isbeli+Ramirez+FullStack+Developer!:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33b8b6&size=35&center=true&vCenter=true&width=1000&lines=Hi+I'm,+Isbeli+Ramirez+Front-End+FullStack+Developer!:%29)](https://git.io/typing-svg)
 <div>
     <center>
 
@@ -52,12 +52,17 @@
  <h2 align="center">
    👩‍💻 My Skills: (Learning)
    </h2>
-  <img align="center" alt="Isbe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isbe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isbe-Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isbe-React" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Isbe-Sqlite" height="40" width="50" src="https://vetores.org/wp-content/uploads/sqlite.png">
-  <img align="center" alt="Isbe-Salesforce" height="40" width="50" src="https://vetores.org/wp-content/uploads/salesforce.png">
+  <img align="center" alt="Isbe-HTML" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Isbe-CSS" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isbe-Js" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isbe-Node" height="40" width="65" src="https://miro.medium.com/v2/resize:fit:1400/1*y5YLuOKO5XM7MOzve6XsDQ.png">
+  <img align="center" alt="Isbe-Typescript" height="40" width="65" src="https://assets.dio.me/E5DQPGJyPxebex5b9pCQd9NkeD1JEkoXNaOFnso5ojQ/f:webp/q:80/L2FydGljbGVzL2NvdmVyL2ZiNjQxZWU2LTA4OTgtNGExZC04ZjZhLWI3ODE2ZTc4N2MyMi5wbmc">
+  <img align="center" alt="Isbe-React" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Isbe-Next" height="40" width="65" src="https://miro.medium.com/v2/1*z1U7SJeqK_JJXUYei5uD8w.png">
+  <img align="center" alt="Isbe-React" height="40" width="65" src="https://media.licdn.com/dms/image/v2/D4D12AQFCdjCClpiF1w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1734474185932?e=2147483647&v=beta&t=uctwf_xa1GkI34t-ay0oS96NAQ-bP2Y7SAwpyl1lAUQ">
+  <img align="center" alt="Isbe-Tailwind" height="40" width="65" src="https://miro.medium.com/v2/1*tHpUU_Z2pTMt5G1KfY0ulg.jpeg">
+  <img align="center" alt="Isbe-Sqlite" height="40" width="55" src="https://vetores.org/wp-content/uploads/sqlite.png">
+  <img align="center" alt="Isbe-Salesforce" height="40" width="65" src="https://vetores.org/wp-content/uploads/salesforce.png">
 </div>
 
 <br/>
